@@ -1,0 +1,9 @@
+[submodule "images_library_api_server"]
+	path = images_library_api_server
+	url = https://github.com/LProgrammation/images_library_api_server.git
+[submodule "images_library_customer_server"]
+	path = images_library_customer_server
+	url = https://github.com/LProgrammation/images_library_customer_server.git
+[submodule "images_library_admin_server"]
+	path = images_library_admin_server
+	url = https://github.com/LProgrammation/images_library_admin_server.git
